@@ -12,6 +12,7 @@ namespace Arrow.DeveloperTest.Application
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddScoped<IPaymentService, PaymentService>();
+            services.AddScoped<IPaymentValidationService, PaymentValidationService>();  
             return services;
         }
     }

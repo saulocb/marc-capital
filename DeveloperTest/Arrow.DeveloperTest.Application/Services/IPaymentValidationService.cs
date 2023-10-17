@@ -9,22 +9,35 @@ namespace Arrow.DeveloperTest.Application.Services
 {
     public class PaymentValidationService : IPaymentValidationService
     {
+        /// <summary>
+        /// Check if Bacs payment is allowed. use domain business logic.
+        /// </summary>
+        /// <param name="account"></param>
+        /// <returns></returns>
         public bool IsBacsPaymentAllowed(Account account)
         {
-            if (account == null) return false;
-            return account.AllowedPaymentSchemes.HasFlag(AllowedPaymentSchemes.Bacs);
+            return account.IsBacsPaymentAllowed();
         }
 
+        /// <summary>
+        /// Check if Faster payment is allowed. use domain business logic.
+        /// </summary>
+        /// <param name="account">account</param>
+        /// <param name="amount">amount</param>
+        /// <returns></returns>
         public bool IsFasterPaymentAllowed(Account account, decimal amount)
         {
-            if (account == null) return false;
-            return account.AllowedPaymentSchemes.HasFlag(AllowedPaymentSchemes.FasterPayments) && account.Balance >= amount;
+            return account.IsFasterPaymentAllowed(amount);
         }
 
+        /// <summary>
+        /// Check if Chaps payment is allowed. use domain business logic.
+        /// </summary>
+        /// <param name="account">account</param>
+        /// <returns></returns>
         public bool IsChapsPaymentAllowed(Account account)
         {
-            if (account == null) return false;
-            return account.AllowedPaymentSchemes.HasFlag(AllowedPaymentSchemes.Chaps) && account.Status == AccountStatus.Live;
+            return account.IsChapsPaymentAllowed();
         }
 
     }
