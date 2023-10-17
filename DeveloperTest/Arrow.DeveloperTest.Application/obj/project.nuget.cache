@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgUKiXliVavnbAuLXZyefHvFG7ANgJoOg1pr+ETZoBN2GhjFkl9dxGqTtFjxD6IUG/iNUGdL+2LjMNzmVDijYQ==",
+  "success": true,
+  "projectFilePath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Application\\Arrow.DeveloperTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SauloSantos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\SauloSantos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\SauloSantos\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

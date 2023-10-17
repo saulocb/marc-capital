@@ -1,0 +1,10 @@
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.deps.json
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.csproj.AssemblyReference.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.AssemblyInfoInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.AssemblyInfo.cs
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.csproj.CoreCompileInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Domain\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Domain.pdb

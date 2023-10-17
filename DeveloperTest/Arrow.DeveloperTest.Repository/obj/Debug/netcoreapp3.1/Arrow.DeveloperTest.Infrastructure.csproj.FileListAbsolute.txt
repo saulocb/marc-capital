@@ -1,0 +1,13 @@
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.deps.json
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Domain.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Domain.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.csproj.AssemblyReference.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.AssemblyInfoInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.AssemblyInfo.cs
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.csproj.CopyComplete
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Repository\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.pdb

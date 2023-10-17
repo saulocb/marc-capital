@@ -1,0 +1,138 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Arrow.DeveloperTest.Application/1.0.0": {
+        "dependencies": {
+          "Arrow.DeveloperTest.Domain": "1.0.0",
+          "Arrow.DeveloperTest.Infrastructure": "1.0.0",
+          "Arrow.DeveloperTest.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Arrow.DeveloperTest.Application.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.29": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.29"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.29.0",
+            "fileVersion": "3.100.2922.41704"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.29": {
+        "dependencies": {
+          "System.Memory": "4.5.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.29.0",
+            "fileVersion": "3.100.2922.41704"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {},
+      "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.6.0",
+            "fileVersion": "4.700.20.12001"
+          }
+        }
+      },
+      "Arrow.DeveloperTest.Domain/1.0.0": {
+        "runtime": {
+          "Arrow.DeveloperTest.Domain.dll": {}
+        }
+      },
+      "Arrow.DeveloperTest.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Arrow.DeveloperTest.Domain": "1.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.29",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "runtime": {
+          "Arrow.DeveloperTest.Infrastructure.dll": {}
+        }
+      },
+      "Arrow.DeveloperTest.Shared/1.0.0": {
+        "runtime": {
+          "Arrow.DeveloperTest.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrow.DeveloperTest.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HAbBFyh47goinoPhYrOa6hs7b8QG9WmswXjkEjafQdSAXHS0Z6kDtYjJlte8uxWdpmGyKSBLq5DPCrp9jOYzew==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.29",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.29.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dTfv+4/5lMy7L7LMT98PPl7E6NjN1vwEi+xQUmNzKUOJhASiKnLaPT0OwsvVXpm6RJoAA/slLegTCOoJTqRFag==",
+      "path": "microsoft.extensions.primitives/3.1.29",
+      "hashPath": "microsoft.extensions.primitives.3.1.29.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zOHkQmzPCn5zm/BH+cxC1XbUS3P4Yoi3xzW7eRgVpDR2tPGSzyMZ17Ig1iRkfJuY0nhxkQQde8pgePNiA7z7TQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+    },
+    "Arrow.DeveloperTest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arrow.DeveloperTest.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arrow.DeveloperTest.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

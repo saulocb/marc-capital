@@ -6,3 +6,13 @@ E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\A
 E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfo.cs
 E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
 E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.deps.json
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.csproj.AssemblyReference.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfoInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfo.cs
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.csproj.CoreCompileInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb

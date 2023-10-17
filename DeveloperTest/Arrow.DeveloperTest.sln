@@ -1,18 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29411.108
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Runner", "Arrow.DeveloperTest.Runner\Arrow.DeveloperTest.Runner.csproj", "{14B8C42C-A7C1-45C8-826B-B358761CF99D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Tests", "Arrow.DeveloperTest.Tests\Arrow.DeveloperTest.Tests.csproj", "{43F210D1-BBD0-4F32-829D-6B6EB82369FD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest", "Arrow.DeveloperTest\Arrow.DeveloperTest.csproj", "{40877D37-7A68-42B9-8184-62B0264D0CCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrow.DeveloperTest.Tests", "Arrow.DeveloperTest.Tests\Arrow.DeveloperTest.Tests.csproj", "{43F210D1-BBD0-4F32-829D-6B6EB82369FD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{032617C3-AB84-45F2-9095-2E73CDACD13A}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.md = Readme.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Infrastructure", "Arrow.DeveloperTest.Repository\Arrow.DeveloperTest.Infrastructure.csproj", "{90EA171A-03B4-4D06-BCF8-3B07FBE97146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Domain", "Arrow.DeveloperTest.Domain\Arrow.DeveloperTest.Domain.csproj", "{11223EC0-B192-42DE-95E4-4749327BA8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Application", "Arrow.DeveloperTest.Application\Arrow.DeveloperTest.Application.csproj", "{D0693700-FEA1-4327-9F47-112E213F0D67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{983DD3D9-2F13-4CA3-9F93-038AAA803110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Shared", "Arrow.DeveloperTest.Shared\Arrow.DeveloperTest.Shared.csproj", "{7C4A403C-32C3-4D04-9DA8-7C01725FE6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Common", "Arrow.DeveloperTest.Common\Arrow.DeveloperTest.Common.csproj", "{EC0EE621-F050-450F-87C3-7A9E2EED27F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow.DeveloperTest.Runner.Api", "Arrow.DeveloperTest.Runner.Api\Arrow.DeveloperTest.Runner.Api.csproj", "{1E6D7CF7-2AA4-4173-9154-0D567D423707}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,21 +30,40 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{14B8C42C-A7C1-45C8-826B-B358761CF99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14B8C42C-A7C1-45C8-826B-B358761CF99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14B8C42C-A7C1-45C8-826B-B358761CF99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14B8C42C-A7C1-45C8-826B-B358761CF99D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43F210D1-BBD0-4F32-829D-6B6EB82369FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43F210D1-BBD0-4F32-829D-6B6EB82369FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F210D1-BBD0-4F32-829D-6B6EB82369FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F210D1-BBD0-4F32-829D-6B6EB82369FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40877D37-7A68-42B9-8184-62B0264D0CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40877D37-7A68-42B9-8184-62B0264D0CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40877D37-7A68-42B9-8184-62B0264D0CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40877D37-7A68-42B9-8184-62B0264D0CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EA171A-03B4-4D06-BCF8-3B07FBE97146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EA171A-03B4-4D06-BCF8-3B07FBE97146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EA171A-03B4-4D06-BCF8-3B07FBE97146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EA171A-03B4-4D06-BCF8-3B07FBE97146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11223EC0-B192-42DE-95E4-4749327BA8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11223EC0-B192-42DE-95E4-4749327BA8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11223EC0-B192-42DE-95E4-4749327BA8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11223EC0-B192-42DE-95E4-4749327BA8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0693700-FEA1-4327-9F47-112E213F0D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0693700-FEA1-4327-9F47-112E213F0D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0693700-FEA1-4327-9F47-112E213F0D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0693700-FEA1-4327-9F47-112E213F0D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4A403C-32C3-4D04-9DA8-7C01725FE6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4A403C-32C3-4D04-9DA8-7C01725FE6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4A403C-32C3-4D04-9DA8-7C01725FE6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4A403C-32C3-4D04-9DA8-7C01725FE6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0EE621-F050-450F-87C3-7A9E2EED27F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0EE621-F050-450F-87C3-7A9E2EED27F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0EE621-F050-450F-87C3-7A9E2EED27F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0EE621-F050-450F-87C3-7A9E2EED27F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6D7CF7-2AA4-4173-9154-0D567D423707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6D7CF7-2AA4-4173-9154-0D567D423707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6D7CF7-2AA4-4173-9154-0D567D423707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6D7CF7-2AA4-4173-9154-0D567D423707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43F210D1-BBD0-4F32-829D-6B6EB82369FD} = {983DD3D9-2F13-4CA3-9F93-038AAA803110}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEDA4379-0771-4304-8073-328F8871E5EF}

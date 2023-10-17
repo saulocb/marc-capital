@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "Arrow.DeveloperTest.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Arrow.DeveloperTest.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arrow.DeveloperTest.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Arrow.DeveloperTest.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Arrow.DeveloperTest.Domain/Arrow.DeveloperTest.Domain.csproj",
+      "msbuildProject": "../Arrow.DeveloperTest.Domain/Arrow.DeveloperTest.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "Arrow.DeveloperTest.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\saulo\\.nuget\\packages\\": {}
+    "C:\\Users\\SauloSantos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest\\Arrow.DeveloperTest.csproj",
+      "projectUniqueName": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest\\Arrow.DeveloperTest.csproj",
       "projectName": "Arrow.DeveloperTest",
-      "projectPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest\\Arrow.DeveloperTest.csproj",
-      "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest\\obj\\",
+      "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest\\Arrow.DeveloperTest.csproj",
+      "packagesPath": "C:\\Users\\SauloSantos\\.nuget\\packages\\",
+      "outputPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SauloSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,14 +52,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\autoaddress\\packages\\packages": {},
-        "C:\\nuget-packages\\packages\\1.0.37": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Domain\\Arrow.DeveloperTest.Domain.csproj": {
+              "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Domain\\Arrow.DeveloperTest.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -53,7 +80,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -76,7 +104,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
