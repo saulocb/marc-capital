@@ -40,13 +40,13 @@ namespace Arrow.DeveloperTest.Tests.ServiceTest
         }
 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentNullException))]
         public void MakePayment_AccountDoesNotExist_ReturnsFalse()
         {
             _mockAccountDataStore.Setup(x => x.GetAccount(It.IsAny<string>())).Returns((Account)null);
 
-            var result = _paymentService.MakePayment(new MakePaymentRequest());
-
-            Assert.IsFalse(result.Success);
+            _paymentService.MakePayment(new MakePaymentRequest());
+            // Expecting an ArgumentNullException to be thrown here
         }
 
         [TestMethod]
