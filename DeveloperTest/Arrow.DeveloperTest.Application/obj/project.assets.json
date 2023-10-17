@@ -8,40 +8,28 @@
           "Microsoft.Extensions.Primitives": "3.0.0"
         },
         "compile": {
-          "lib/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/3.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
       "Microsoft.Extensions.Primitives/3.0.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {
-            "related": ".xml"
-          }
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
       "Arrow.DeveloperTest.Common/1.0.0": {
@@ -170,24 +158,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SauloSantos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\saulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Application\\Arrow.DeveloperTest.Application.csproj",
+      "projectUniqueName": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Application\\Arrow.DeveloperTest.Application.csproj",
       "projectName": "Arrow.DeveloperTest.Application",
-      "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Application\\Arrow.DeveloperTest.Application.csproj",
-      "packagesPath": "C:\\Users\\SauloSantos\\.nuget\\packages\\",
-      "outputPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Application\\obj\\",
+      "projectPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Application\\Arrow.DeveloperTest.Application.csproj",
+      "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\SauloSantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -195,21 +178,22 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\autoaddress\\packages\\packages": {},
+        "C:\\nuget-packages\\packages\\1.0.37": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Domain\\Arrow.DeveloperTest.Domain.csproj": {
-              "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Domain\\Arrow.DeveloperTest.Domain.csproj"
+            "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Domain\\Arrow.DeveloperTest.Domain.csproj": {
+              "projectPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Domain\\Arrow.DeveloperTest.Domain.csproj"
             },
-            "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Repository\\Arrow.DeveloperTest.Infrastructure.csproj": {
-              "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Repository\\Arrow.DeveloperTest.Infrastructure.csproj"
+            "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Repository\\Arrow.DeveloperTest.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Repository\\Arrow.DeveloperTest.Infrastructure.csproj"
             },
-            "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Shared\\Arrow.DeveloperTest.Shared.csproj": {
-              "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Shared\\Arrow.DeveloperTest.Shared.csproj"
+            "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Shared\\Arrow.DeveloperTest.Shared.csproj": {
+              "projectPath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Shared\\Arrow.DeveloperTest.Shared.csproj"
             }
           }
         }
@@ -229,8 +213,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -239,7 +222,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
