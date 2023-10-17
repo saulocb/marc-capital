@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wVy1y2Pqnvgwueyfx2inZyKK9cd7R54j1uapOqtS19TJZeq59cTQC8GdV1tT5PRQ+8aoMl2WKAbevzf2C2ejg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saulo\\Downloads\\Arrow_2\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest.Runner\\Arrow.DeveloperTest.Runner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\saulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\saulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\saulo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

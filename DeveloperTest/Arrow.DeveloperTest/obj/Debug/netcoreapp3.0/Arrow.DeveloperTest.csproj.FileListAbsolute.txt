@@ -1,0 +1,8 @@
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.deps.json
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.csprojAssemblyReference.cache
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfoInputs.cache
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfo.cs
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+E:\MarsCapital\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb
