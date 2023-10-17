@@ -1,13 +1,13 @@
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.deps.json
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.csproj.AssemblyReference.cache
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.AssemblyInfoInputs.cache
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.AssemblyInfo.cs
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.csproj.CoreCompileInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.csproj.CopyComplete
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.pdb
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.csproj.CopyComplete

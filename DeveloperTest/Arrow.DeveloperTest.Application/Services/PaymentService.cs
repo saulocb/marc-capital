@@ -42,6 +42,9 @@ namespace Arrow.DeveloperTest.Application.Services
         public MakePaymentResult MakePayment(MakePaymentRequest request)
         {
             var result = new MakePaymentResult();
+
+            if (string.IsNullOrEmpty(request.DebtorAccountNumber)) throw new ArgumentNullException(nameof(request.DebtorAccountNumber));
+
             Account account = _accountDataStore.GetAccount(request.DebtorAccountNumber);
 
             if (account == null)

@@ -6,12 +6,18 @@ C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netc
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.runtimeconfig.dev.json
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Application.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Domain.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Application.pdb
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Infrastructure.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Domain.pdb
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.pdb
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.csproj.AssemblyReference.cache
@@ -19,6 +25,7 @@ C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netc
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.AssemblyInfoInputs.cache
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.AssemblyInfo.cs
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.csproj.CoreCompileInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\staticwebassets\Arrow.DeveloperTest.Runner.Api.StaticWebAssets.Manifest.cache
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\staticwebassets\Arrow.DeveloperTest.Runner.Api.StaticWebAssets.Pack.cache
@@ -31,10 +38,3 @@ C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netc
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.pdb
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.genruntimeconfig.cache
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
-C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb
