@@ -1,4 +1,5 @@
-﻿using Arrow.DeveloperTest.Domain.Enum;
+﻿
+using Arrow.DeveloperTest.Common.Enum;
 
 namespace Arrow.DeveloperTest.Domain.Entities
 {

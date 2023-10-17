@@ -36,3 +36,5 @@ C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netc
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Runner.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Runner.Api\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb

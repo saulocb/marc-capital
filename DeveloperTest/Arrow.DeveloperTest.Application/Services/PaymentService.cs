@@ -1,11 +1,9 @@
 ﻿using Arrow.DeveloperTest.Application.Interfaces;
+using Arrow.DeveloperTest.Common.Enum;
 using Arrow.DeveloperTest.Domain.Entities;
-using Arrow.DeveloperTest.Domain.Enum;
 using Arrow.DeveloperTest.Infrastructure.Interfaces;
-using Arrow.DeveloperTest.Infrastructure.Repository;
 using Arrow.DeveloperTest.Shared.Dto;
 using System;
-using System.Configuration;
 
 namespace Arrow.DeveloperTest.Application.Services
 {
@@ -28,6 +26,7 @@ namespace Arrow.DeveloperTest.Application.Services
         /// the constructor of the payment service.
         /// </summary>
         /// <param name="accountDataStore">accountDataStore.</param>
+        /// <param name="IPaymentValidationService">IPaymentValidationService.</param>
         /// <exception cref="System.ArgumentNullException"></exception>
         public PaymentService(IAccountDataStoreRepository accountDataStore, IPaymentValidationService paymentValidationService)
         {
@@ -53,13 +52,13 @@ namespace Arrow.DeveloperTest.Application.Services
 
             switch (request.PaymentScheme)
             {
-                case PaymentSchemeDto.Bacs:
+                case PaymentScheme.Bacs:
                     result.Success = _paymentValidationService.IsBacsPaymentAllowed(account);
                     break;
-                case PaymentSchemeDto.FasterPayments:
+                case PaymentScheme.FasterPayments:
                     result.Success = _paymentValidationService.IsFasterPaymentAllowed(account, request.Amount);
                     break;
-                case PaymentSchemeDto.Chaps:
+                case PaymentScheme.Chaps:
                     result.Success = _paymentValidationService.IsChapsPaymentAllowed(account);
                     break;
             }

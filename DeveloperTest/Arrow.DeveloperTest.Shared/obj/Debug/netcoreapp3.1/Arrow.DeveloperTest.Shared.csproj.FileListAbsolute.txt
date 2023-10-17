@@ -8,3 +8,6 @@ C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcorea
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.csproj.CoreCompileInputs.cache
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.dll
 C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Shared\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Shared.csproj.CopyComplete

@@ -44,9 +44,22 @@
           }
         }
       },
+      "Arrow.DeveloperTest.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Arrow.DeveloperTest.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arrow.DeveloperTest.Common.dll": {}
+        }
+      },
       "Arrow.DeveloperTest.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Arrow.DeveloperTest.Domain.dll": {}
         },
@@ -99,6 +112,11 @@
         "microsoft.extensions.primitives.3.0.0.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec"
       ]
+    },
+    "Arrow.DeveloperTest.Common/1.0.0": {
+      "type": "project",
+      "path": "../Arrow.DeveloperTest.Common/Arrow.DeveloperTest.Common.csproj",
+      "msbuildProject": "../Arrow.DeveloperTest.Common/Arrow.DeveloperTest.Common.csproj"
     },
     "Arrow.DeveloperTest.Domain/1.0.0": {
       "type": "project",

@@ -1,4 +1,4 @@
-﻿namespace Arrow.DeveloperTest.Domain.Enum
+﻿namespace Arrow.DeveloperTest.Common.Enum
 {
     /// <summary>
     /// Enum type for account status

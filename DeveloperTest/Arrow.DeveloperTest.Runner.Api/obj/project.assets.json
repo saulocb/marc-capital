@@ -162,9 +162,22 @@
           "bin/placeholder/Arrow.DeveloperTest.Application.dll": {}
         }
       },
+      "Arrow.DeveloperTest.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Arrow.DeveloperTest.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arrow.DeveloperTest.Common.dll": {}
+        }
+      },
       "Arrow.DeveloperTest.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Arrow.DeveloperTest.Domain.dll": {}
         },
@@ -190,6 +203,9 @@
       "Arrow.DeveloperTest.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Arrow.DeveloperTest.Shared.dll": {}
         },
@@ -602,6 +618,11 @@
       "type": "project",
       "path": "../Arrow.DeveloperTest.Application/Arrow.DeveloperTest.Application.csproj",
       "msbuildProject": "../Arrow.DeveloperTest.Application/Arrow.DeveloperTest.Application.csproj"
+    },
+    "Arrow.DeveloperTest.Common/1.0.0": {
+      "type": "project",
+      "path": "../Arrow.DeveloperTest.Common/Arrow.DeveloperTest.Common.csproj",
+      "msbuildProject": "../Arrow.DeveloperTest.Common/Arrow.DeveloperTest.Common.csproj"
     },
     "Arrow.DeveloperTest.Domain/1.0.0": {
       "type": "project",

@@ -1,4 +1,4 @@
-﻿namespace Arrow.DeveloperTest.Domain.Enum
+﻿namespace Arrow.DeveloperTest.Common.Enum
 {
     /// <summary>
     /// Enum to represent the allowed payment schemes

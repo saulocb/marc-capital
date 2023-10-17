@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Arrow.DeveloperTest.Shared/1.0.0": {
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "runtime": {
           "Arrow.DeveloperTest.Shared.dll": {}
+        }
+      },
+      "Arrow.DeveloperTest.Common/1.0.0": {
+        "runtime": {
+          "Arrow.DeveloperTest.Common.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Arrow.DeveloperTest.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arrow.DeveloperTest.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

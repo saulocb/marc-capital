@@ -1,4 +1,5 @@
 ﻿using Arrow.DeveloperTest.Application.Interfaces;
+using Arrow.DeveloperTest.Application.Mapping;
 using Arrow.DeveloperTest.Application.Services;
 using Arrow.DeveloperTest.Shared.Dto;
 using Microsoft.AspNetCore.Mvc;
@@ -33,7 +34,7 @@ namespace Arrow.DeveloperTest.Runner.Api.Controllers
         {
             try
             {
-                var paymentResult = paymentService.MakePayment(request);
+                var paymentResult = paymentService.MakePayment(request).ToDto();
 
                 if (paymentResult.Success)
                 {

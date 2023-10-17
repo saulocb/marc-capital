@@ -43,7 +43,15 @@
           }
         }
       },
+      "Arrow.DeveloperTest.Common/1.0.0": {
+        "runtime": {
+          "Arrow.DeveloperTest.Common.dll": {}
+        }
+      },
       "Arrow.DeveloperTest.Domain/1.0.0": {
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "runtime": {
           "Arrow.DeveloperTest.Domain.dll": {}
         }
@@ -76,6 +84,11 @@
       "sha512": "sha512-6gwewTbmOh+ZVBicVkL1XRp79sx4O7BVY6Yy+7OYZdwn3pyOKe9lOam+3gXJ3TZMjhJZdV0Ub8hxHt2vkrmN5Q==",
       "path": "microsoft.extensions.primitives/3.0.0",
       "hashPath": "microsoft.extensions.primitives.3.0.0.nupkg.sha512"
+    },
+    "Arrow.DeveloperTest.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Arrow.DeveloperTest.Domain/1.0.0": {
       "type": "project",

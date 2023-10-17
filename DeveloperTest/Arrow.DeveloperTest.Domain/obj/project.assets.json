@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Arrow.DeveloperTest.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Arrow.DeveloperTest.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arrow.DeveloperTest.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Arrow.DeveloperTest.Common/1.0.0": {
+      "type": "project",
+      "path": "../Arrow.DeveloperTest.Common/Arrow.DeveloperTest.Common.csproj",
+      "msbuildProject": "../Arrow.DeveloperTest.Common/Arrow.DeveloperTest.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Arrow.DeveloperTest.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SauloSantos\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Common\\Arrow.DeveloperTest.Common.csproj": {
+              "projectPath": "C:\\DEMO\\marc-capital\\DeveloperTest\\Arrow.DeveloperTest.Common\\Arrow.DeveloperTest.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

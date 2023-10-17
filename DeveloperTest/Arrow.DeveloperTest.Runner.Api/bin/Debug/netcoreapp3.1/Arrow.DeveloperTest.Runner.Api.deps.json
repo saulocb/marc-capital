@@ -409,7 +409,18 @@
           "Arrow.DeveloperTest.Application.dll": {}
         }
       },
+      "Arrow.DeveloperTest.Common/1.0.0": {
+        "runtime": {
+          "Arrow.DeveloperTest.Common.dll": {}
+        },
+        "compile": {
+          "Arrow.DeveloperTest.Common.dll": {}
+        }
+      },
       "Arrow.DeveloperTest.Domain/1.0.0": {
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "runtime": {
           "Arrow.DeveloperTest.Domain.dll": {}
         },
@@ -431,6 +442,9 @@
         }
       },
       "Arrow.DeveloperTest.Shared/1.0.0": {
+        "dependencies": {
+          "Arrow.DeveloperTest.Common": "1.0.0"
+        },
         "runtime": {
           "Arrow.DeveloperTest.Shared.dll": {}
         },
@@ -2209,6 +2223,11 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
     },
     "Arrow.DeveloperTest.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arrow.DeveloperTest.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,10 @@
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.deps.json
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\bin\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.csproj.AssemblyReference.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.AssemblyInfoInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.AssemblyInfo.cs
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.csproj.CoreCompileInputs.cache
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.dll
+C:\DEMO\marc-capital\DeveloperTest\Arrow.DeveloperTest.Common\obj\Debug\netcoreapp3.1\Arrow.DeveloperTest.Common.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Arrow.DeveloperTest.Common.Enum;
+using System;
 
 namespace Arrow.DeveloperTest.Shared.Dto
 {
@@ -12,6 +13,6 @@ namespace Arrow.DeveloperTest.Shared.Dto
 
         public DateTime PaymentDate { get; set; }
 
-        public PaymentSchemeDto PaymentScheme { get; set; }
+        public PaymentScheme PaymentScheme { get; set; }
     }
 }

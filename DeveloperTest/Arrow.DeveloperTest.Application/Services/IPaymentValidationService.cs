@@ -1,6 +1,5 @@
 ﻿using Arrow.DeveloperTest.Application.Interfaces;
 using Arrow.DeveloperTest.Domain.Entities;
-using Arrow.DeveloperTest.Domain.Enum;
 using System;
 using System.Collections.Generic;
 using System.Text;
